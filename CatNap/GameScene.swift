@@ -18,7 +18,7 @@ class GameScene: SKScene {
     private var label : SKLabelNode?
     private var spinnyNode : SKShapeNode?
     
-    override func sceneDidLoad() {
+                            override func sceneDidLoad() {
 
         self.lastUpdateTime = 0
         
